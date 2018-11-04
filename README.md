@@ -77,6 +77,9 @@ Then, edit `vim /etc/profile` , add some thing like this too:
 
 At the last, reboot your system and enjoy!
 
+### Install the Screen
+    apt-get install screen
+
 ### How to use
     chmod a+x ssr.sh
     ./ssr.sh
