@@ -35,7 +35,7 @@ It looks like this:
 ```bash
 #!/bin/bash
 
-screen python /usr/bin/ssr/shadowsocksr/shadowsocks/local.py -c /etc/ss.json >> ssr.log
+screen python /usr/bin/ssr/shadowsocksr/shadowsocks/local.py -c /etc/ssr.json >> ssr.log
 ```
 ### Download Chromium Extension Named SwitchyOmega on Its GitHub Project Release
 > URL: https://github.com/FelisCatus/SwitchyOmega/releases
